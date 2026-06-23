@@ -18,7 +18,7 @@ Componente prático desenvolvido para a disciplina de **Inteligência Artificial
 
 ## Instalação e Configuração
 
-Clone o repositório, navegue até o diretório, instale as dependências e configure as variáveis de ambiente:
+Clone o repositório
 
 ```bash
   git clone https://github.com/Dannick10/ia-gerenciamento-treino-cli.git
