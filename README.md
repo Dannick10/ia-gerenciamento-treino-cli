@@ -44,4 +44,4 @@ cp .env.example .env
   Inicie a aplicação:
 ```bash
   npm start
-    ```
+  ```
